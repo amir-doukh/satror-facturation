@@ -1,0 +1,3 @@
+cd facturation
+start Facturation.bat
+start web.bat
